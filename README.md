@@ -1,2 +1,2 @@
 
-![Görmek için tıklayınız](https://birtdayreact.netlify.app/)
+[Görmek için tıklayınız](https://birtdayreact.netlify.app/)
