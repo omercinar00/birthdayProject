@@ -1,2 +1,2 @@
 
-[Görmek için tıklayınız](https://birtdayreact.netlify.app/)
+[![Uploading gif.gif…]](https://birtdayreact.netlify.app/)
