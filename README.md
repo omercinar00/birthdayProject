@@ -1,3 +1,2 @@
-## Idea
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+[Görmek için tıklayınız]([https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042](https://birtdayreact.netlify.app/))
