@@ -1,2 +1,1 @@
-
-[![Uploading gif.gif…]](https://birtdayreact.netlify.app/)
+[![birtdayProject](gif.gif)](https://birtdayreact.netlify.app/)
